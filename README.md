@@ -1,16 +1,16 @@
 # flutter_starter
 
-A new Flutter project.
+A Flutter starter template with minimal third party dependency
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Click on `use as template` in the code button above
 
-A few resources to get you started if this is your first Flutter project:
+## This template has flavor integrated in it
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+So, icons and resources such as config json go to respective flavor folder
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pre-added dependency
+
+1. dio
+2. logger
